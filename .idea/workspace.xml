@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b239c565-298a-440c-bb1c-f60345c887c1" name="Default Changelist" comment="" />
+    <list default="true" id="b239c565-298a-440c-bb1c-f60345c887c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/datatables/1.10.0/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/datatables/1.10.0/jquery.dataTables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-score-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/student-score-list.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +17,12 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1V1pj3qyaiT8bKsCdgMrotku4aF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../php/php.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -55,6 +65,7 @@
       <updated>1576430587248</updated>
       <workItem from="1576430594140" duration="2803000" />
       <workItem from="1576463656140" duration="5809000" />
+      <workItem from="1576514132174" duration="2307000" />
     </task>
     <servers />
   </component>
@@ -82,10 +93,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576463697500" />
-    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576463681733">
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576514133351">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576463681733" />
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576514133351" />
+    <state x="0" y="0" width="638" height="680" key="find.popup" timestamp="1576516289084">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="638" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576516289084" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576467492462">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
