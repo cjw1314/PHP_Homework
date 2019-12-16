@@ -8,8 +8,6 @@ if($query&&mysqli_num_rows($query)){
         $data[] = $row;
     }
 }
-print_r("<pre>");
-print_r($data);
 ?>
 <!--_meta 作为公共模版分离出去-->
 <!DOCTYPE HTML>
@@ -139,15 +137,18 @@ print_r($data);
 					<thead>
 						<tr class="text-c">
 							<th width="25"><input type="checkbox" name="" value=""></th>
-							<th width="80">ID</th>
-							<th width="100">用户名</th>
+							<th width="80">学号</th>
+							<th width="100">姓名</th>
 							<th width="40">性别</th>
-							<th width="90">手机</th>
-							<th width="150">邮箱</th>
-							<th width="">地址</th>
-							<th width="130">加入时间</th>
-							<th width="70">状态</th>
+                            <th width="40">专业</th>
+							<th width="90">课程名</th>
+							<th width="150">开课学期</th>
+							<th width="">学时</th>
+							<th width="130">学分</th>
+							<th width="70">总分数</th>
+                            <th width="40">备注</th>
 							<th width="100">操作</th>
+
 						</tr>
 					</thead>
 					<tbody>
